@@ -1,4 +1,4 @@
-# Shamidan-Collection-Ltd-sales-analysis-for-the-year-2014
+# Shabel-Collection-Ltd-sales-analysis-for-the-year-2014
 
 Overview
 
@@ -18,6 +18,6 @@ Finetune store in city with the least generated revenue by implementing measures
 Highlighting customer with the most purchased products.
 Conclusion
 
-Shamidan collection limited sales performance highlights the top customers, salesperson, region, city and best categories. That way ensuring that the business does better in the forth coming years and also keeping the business on track.
+Shabel collection limited sales performance highlights the top customers, salesperson, region, city and best categories. That way ensuring that the business does better in the forth coming years and also keeping the business on track.
 ![image](https://github.com/user-attachments/assets/84ce59f5-6ddb-4907-86f0-95472a3fddb5)
 
