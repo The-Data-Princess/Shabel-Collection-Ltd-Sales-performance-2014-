@@ -1,6 +1,6 @@
 # Sales Performance analysis for Shabel Collection Ltd(2014)
 
-Project-Overview
+Project- Overview
 
 This project analyses a fashion business sales, different goods and products sold in the company and how versatile the business is in different countries. The story identifies different quantities purchased, the shipping company used to ship and also shows salesperson for each sales made in various locations. In other to draw out insights and analyses, best performing salesperson was analysed, top customer, leading region, best city. These insights were used to point out observations and recommendations.
 
