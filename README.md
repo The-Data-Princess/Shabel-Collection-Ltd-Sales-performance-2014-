@@ -2,12 +2,12 @@
 
 Project Overview
 -
-This project analyses a fashion business sales, different goods and products sold in the company and how versatile the business is in different countries. The story identifies different quantities purchased, the shipping company used to ship and also shows salesperson for each sales made in various locations. In other to draw out insights and analyses, best performing salesperson was analysed, top customer, leading region, best city. These insights were used to point out observations and recommendations.
+This project analyses a fashion business sales, different goods and products sold in the company and how versatile the business is in different countries. The story identifies different quantities purchased, the shipping company used to ship and also shows salesperson for each sales made in various locations. In other to draw out insights and analyses, best performing salesperson was analysed, top customer, leading region, best city. These insights were used to point out observations and recommendations. The goal is to draw out insights and recommendations that can help improve the sales of the business.
 
 Key Stakeholders
 -
-* Managers: Oversees that the business goes smoothly daily and finds ways to ensure a thriving business
-* CEO: In charge of all business activities.
+* Chief Executives
+* Decision makers
 
 Key Insights and Recommendations
 -
@@ -18,6 +18,6 @@ Key Insights and Recommendations
   
 Conclusion
 -
-Shabel collection limited sales performance highlights the top customers, salesperson, region, city and best categories. That way ensuring that the business does better in the forth coming years and also keeping the business on track.
+Through the analysis, I was able to find insights and recommendations on how to assist the industry do better in the coming years and also keeping the business on track.
 ![image](https://github.com/user-attachments/assets/84ce59f5-6ddb-4907-86f0-95472a3fddb5)
 
